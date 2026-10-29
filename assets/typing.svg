@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="60" viewBox="0 0 820 60" fill="none" role="img" aria-labelledby="title">
+<title id="title">Construyo aplicaciones Full Stack. Conecto backend, datos e IA. Automatizo lo repetitivo.</title>
+<style>
+@keyframes show { 0%,28% {opacity:1} 33%,100% {opacity:0} }
+@keyframes type { 0% {width:0} 58%,82% {width:820px} 100% {width:0} }
+.role {opacity:0; animation:show 15s infinite;}.first {opacity:1;}
+.second {animation-delay:5s}.third {animation-delay:10s}
+.reveal {animation:type 5s steps(45,end) infinite;}
+@media (prefers-reduced-motion: reduce) { .first {opacity:1} .second,.third {opacity:0} }
+
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+
+<defs><clipPath id="type"><rect class="reveal" x="0" y="0" width="820" height="60"/></clipPath></defs>
+<g clip-path="url(#type)" fill="#A78BFA" font-family="Consolas, 'Courier New', monospace" font-size="23" text-anchor="middle">
+<text class="role first" x="410" y="37">Construyo aplicaciones Full Stack.</text>
+<text class="role second" x="410" y="37" fill="#22D3EE">Conecto backend, datos e IA.</text>
+<text class="role third" x="410" y="37" fill="#C4B5FD">Automatizo lo repetitivo.</text>
+</g>
+
+</svg>

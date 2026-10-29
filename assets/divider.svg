@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="28" viewBox="0 0 1200 28" fill="none" role="img" aria-labelledby="title">
+<title id="title">Separador animado violeta y cian</title>
+<style>@keyframes travel {from {transform:translateX(0)}to {transform:translateX(1115px)}} .pulse {animation:travel 9s ease-in-out infinite alternate;}
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+
+<defs><linearGradient id="line"><stop stop-color="#A78BFA" stop-opacity="0"/><stop offset=".35" stop-color="#A78BFA"/><stop offset=".65" stop-color="#22D3EE"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></linearGradient></defs>
+<path d="M0 14H1200" stroke="url(#line)" stroke-opacity=".4"/>
+<rect class="pulse" x="0" y="12" width="85" height="3" rx="1.5" fill="url(#line)"/>
+
+</svg>

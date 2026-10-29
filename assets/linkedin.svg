@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="205" height="48" viewBox="0 0 205 48" fill="none" role="img" aria-labelledby="title">
+<title id="title">Conectemos</title>
+<style>
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<rect x=".5" y=".5" width="204" height="47" rx="11" fill="#121A30" stroke="#C4B5FD" stroke-opacity=".5"/><g color="#C4B5FD"><path d="M19 16H33V29H25L20 33V29H19Z" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/><path d="M23 21H29M23 24H27" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></g><text x="47" y="30" fill="#C4B5FD" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">Conectemos</text><path d="M177 20H184V27M184 20L176 28" stroke="#C4B5FD" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" fill="none" role="img" aria-labelledby="title">
+<title id="title">Mi enfoque: interfaces, APIs, datos e inteligencia artificial conectados.</title>
+<style>@keyframes signal {to {stroke-dashoffset:-880}} .signal {animation:signal 7s linear infinite;}
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+
+<defs><linearGradient id="line"><stop stop-color="#8B5CF6"/><stop offset="1" stop-color="#22D3EE"/></linearGradient></defs>
+<path d="M160 65H1040" stroke="#333751" stroke-width="2"/>
+<path class="signal" d="M160 65H1040" stroke="url(#line)" stroke-width="3" stroke-dasharray="50 830"/>
+<g fill="#101827" stroke="#3D4667">
+<rect x="35" y="30" width="240" height="70" rx="14"/><rect x="335" y="30" width="240" height="70" rx="14"/><rect x="635" y="30" width="240" height="70" rx="14"/><rect x="935" y="30" width="230" height="70" rx="14"/>
+</g>
+<g font-family="Consolas, monospace" font-size="22" font-weight="700" text-anchor="middle">
+<text x="155" y="73" fill="#C4B5FD">INTERFACES</text><text x="455" y="73" fill="#A5B4FC">APIs</text><text x="755" y="73" fill="#67E8F9">DATOS</text><text x="1050" y="73" fill="#22D3EE">IA</text>
+</g>
+<g font-family="Segoe UI, Arial, sans-serif" fill="#94A3B8" font-size="14" text-anchor="middle">
+<text x="155" y="131">Experiencias claras</text><text x="455" y="131">Lógica de negocio</text><text x="755" y="131">Información estructurada</text><text x="1050" y="131">Inteligencia aplicada</text>
+</g>
+
+</svg>

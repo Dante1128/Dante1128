@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" fill="none" role="img" aria-labelledby="title">
+<title id="title">¿Construimos algo juntos? Conectemos en LinkedIn.</title>
+<style>@keyframes move {to {transform:translateX(400px)}} .dot {animation:move 5s ease-in-out infinite alternate;}
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+
+<defs><linearGradient id="bg"><stop stop-color="#18132E"/><stop offset="1" stop-color="#0B2230"/></linearGradient><linearGradient id="accent"><stop stop-color="#A78BFA"/><stop offset="1" stop-color="#22D3EE"/></linearGradient></defs>
+<rect x=".5" y=".5" width="1199" height="179" rx="22" fill="url(#bg)" stroke="#343452"/>
+<g font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">
+<text x="600" y="49" fill="#A5B4FC" font-size="12" letter-spacing="4">DEL CÓDIGO A LO QUE IMAGINAS</text>
+<text x="600" y="97" fill="#F1F5F9" font-size="32" font-weight="700">¿Construimos algo juntos?</text>
+<text x="600" y="133" fill="#94A3B8" font-size="16">Desarrollo web · Backend · Automatización · IA aplicada</text>
+</g>
+<path d="M400 158H800" stroke="url(#accent)" stroke-width="2"/>
+<circle class="dot" cx="400" cy="158" r="3" fill="#67E8F9"/>
+
+</svg>

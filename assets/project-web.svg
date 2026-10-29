@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="140" viewBox="0 0 560 140" fill="none" role="img" aria-labelledby="title">
+<title id="title">Interfaces con intención</title>
+<style>@keyframes breathe {50% {opacity:.25}} .light {animation:breathe 4s ease-in-out infinite;}
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+
+<defs><linearGradient id="bg"><stop stop-color="#16172D"/><stop offset="1" stop-color="#101D2C"/></linearGradient></defs>
+<rect x=".5" y=".5" width="559" height="139" rx="15" fill="url(#bg)" stroke="#343452"/>
+<rect x="0" y="25" width="3" height="90" rx="1.5" fill="#C4B5FD"/>
+<g font-family="Segoe UI, Arial, sans-serif">
+<text x="24" y="32" fill="#C4B5FD" font-size="10" font-weight="700" letter-spacing="1.7">04 / EXPERIENCIAS WEB</text>
+<text x="24" y="75" fill="#F1F5F9" font-size="27" font-weight="700" letter-spacing="-.6">Interfaces con intención</text>
+<text x="24" y="106" fill="#94A3B8" font-size="13">De una idea a una experiencia digital.</text>
+</g>
+<g stroke="#C4B5FD" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" opacity=".7"><rect x="450" y="39" width="65" height="48" rx="6"/><path d="M450 51H515M460 45H461M467 45H468M474 45H475M474 61L467 68L474 75M491 61L498 68L491 75M486 59L479 77"/></g>
+<circle class="light" cx="531" cy="120" r="3" fill="#C4B5FD"/>
+
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="140" viewBox="0 0 560 140" fill="none" role="img" aria-labelledby="title">
+<title id="title">Educación organizada</title>
+<style>@keyframes breathe {50% {opacity:.25}} .light {animation:breathe 4s ease-in-out infinite;}
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+
+<defs><linearGradient id="bg"><stop stop-color="#16172D"/><stop offset="1" stop-color="#101D2C"/></linearGradient></defs>
+<rect x=".5" y=".5" width="559" height="139" rx="15" fill="url(#bg)" stroke="#343452"/>
+<rect x="0" y="25" width="3" height="90" rx="1.5" fill="#22D3EE"/>
+<g font-family="Segoe UI, Arial, sans-serif">
+<text x="24" y="32" fill="#22D3EE" font-size="10" font-weight="700" letter-spacing="1.7">02 / GESTIÓN ACADÉMICA</text>
+<text x="24" y="75" fill="#F1F5F9" font-size="27" font-weight="700" letter-spacing="-.6">Educación organizada</text>
+<text x="24" y="106" fill="#94A3B8" font-size="13">Software que acompaña procesos.</text>
+</g>
+<g stroke="#22D3EE" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" opacity=".7"><path d="M454 43Q469 36 484 44Q499 36 514 43V82Q499 75 484 83Q469 75 454 82ZM484 44V83"/><path d="M461 52Q469 49 477 53M491 53Q499 49 507 52M461 62Q469 59 477 63M491 63Q499 59 507 62"/></g>
+<circle class="light" cx="531" cy="120" r="3" fill="#22D3EE"/>
+
+</svg>
