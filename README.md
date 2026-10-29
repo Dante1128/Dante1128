@@ -1,74 +1,103 @@
 <div align="center">
 
-# ¡Hola! Soy Dante Yupanqui 👋
+![Dante Yupanqui — Full Stack Developer](assets/banner.svg)
 
-### Desarrollador Full Stack · Backend e Inteligencia Artificial
+### Desarrollo web, backend e inteligencia artificial aplicada
 
-Desarrollo aplicaciones web, APIs y soluciones que integran datos e inteligencia artificial para resolver problemas reales.
+Soy egresado de Ingeniería de Sistemas y disfruto construir soluciones que conectan **software, automatización y datos**.
 
-[LinkedIn](https://www.linkedin.com/in/dante-yupanqui/) · [Mis repositorios](https://github.com/Dante1128?tab=repositories) · 📍 La Paz, Bolivia
+[**LinkedIn**](https://www.linkedin.com/in/dante-yupanqui/) &nbsp;·&nbsp; [**Repositorios**](https://github.com/Dante1128?tab=repositories) &nbsp;·&nbsp; **La Paz, Bolivia**
 
 </div>
 
 ---
 
-## Sobre mí
+### 👨‍💻 Un poco sobre mí
 
-Soy **egresado de Ingeniería de Sistemas** y desarrollador **Full Stack**, con especial interés en **backend**, **automatización** e **integración de inteligencia artificial**.
+Me especializo en el desarrollo de aplicaciones **Full Stack**, con mayor interés en el **backend**, el diseño de APIs y la integración de herramientas de **inteligencia artificial**.
 
-- Desarrollo de sistemas web y APIs.
-- Integración de LLMs, embeddings y búsqueda vectorial.
-- Trabajo con bases de datos relacionales y NoSQL.
-- Aprendizaje continuo de nuevas herramientas y arquitecturas.
+- 🔧 Desarrollo servicios, funcionalidades y automatizaciones que resuelven necesidades reales.
+- 🧠 Trabajo con **LLMs, embeddings, bases vectoriales y comparación semántica**.
+- 🗄️ Me gusta diseñar soluciones respaldadas por bases de datos bien estructuradas.
+- 🚀 Continúo aprendiendo sobre arquitecturas backend, agentes de IA y nuevas tecnologías.
 
-## Tecnologías
+### 🧰 Mi stack tecnológico
 
-**Lenguajes:** Python · PHP · JavaScript · TypeScript · Dart · SQL
+| Área | Tecnologías |
+| :--- | :--- |
+| **Lenguajes** | `Python` `PHP` `JavaScript` `TypeScript` `SQL` `Dart` |
+| **Backend** | `Laravel` `Django` `Flask` `Node.js` `Express` |
+| **Frontend / móvil** | `Vue.js` `React` `Astro` `Flutter` |
+| **Bases de datos** | `PostgreSQL` `pgvector` `MySQL` `MongoDB` `Firebase` |
+| **IA y automatización** | `Ollama` `Embeddings` `LLMs` `Selenium` `pandas` |
+| **Herramientas** | `Git` `GitHub` `Docker` `Postman` |
 
-**Backend:** Laravel · Django · Flask · Node.js · Express
+### ✨ Proyectos que me representan
 
-**Frontend y móvil:** Vue.js · React · Astro · Flutter
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Datos:** PostgreSQL · pgvector · MySQL · MongoDB · Firebase
+**🧠 Postulación de personal con IA**
 
-**IA y automatización:** Ollama · embeddings · búsqueda semántica · Selenium · pandas
+Sistema de apoyo a la preselección que analiza currículums y compara su contenido con los requisitos de una vacante mediante **búsqueda vectorial y similitud semántica**.
 
-**Herramientas:** Git · GitHub · Postman · Docker
+`Vue.js` · `Laravel` · `PostgreSQL` · `pgvector` · `Ollama`
 
-## Proyectos destacados
+</td>
+<td width="50%" valign="top">
 
-### 🧠 Sistema de postulación de personal con comparación semántica
+**🎓 Sistema de administración académica**
 
-Proyecto de grado que compara currículums con requisitos de vacantes utilizando **embeddings y bases de datos vectoriales** para apoyar el trabajo del área de Recursos Humanos.
+Desarrollo de funcionalidades para gestionar y organizar procesos académicos en una plataforma web.
 
-**Tecnologías:** Vue.js · Laravel · PostgreSQL · pgvector · Ollama
+`Laravel` · `PHP` · `MySQL`
 
-### 🎓 Sistema de administración académica
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-Sistema de gestión y organización de procesos académicos desarrollado con **Laravel, PHP y MySQL**.
+**⚙️ Automatización y extracción de datos**
 
-### ⚙️ Automatización y extracción de datos
+Scripts y herramientas para reducir tareas repetitivas, recopilar información y procesar datos.
 
-Automatización de tareas y procesamiento de información con **Python, Selenium y pandas**.
+`Python` · `Selenium` · `pandas`
 
-### 🌐 Desarrollo de interfaces web
+</td>
+<td width="50%" valign="top">
 
-Experiencia en desarrollo de interfaces y aplicaciones web con **React y Astro**.
+**🌐 Experiencias web**
 
-> Los proyectos descritos forman parte de mi experiencia. Incorporaré enlaces cuando sus repositorios o demostraciones estén disponibles públicamente.
+Desarrollo de interfaces modernas y experiencias digitales orientadas a usuarios.
 
-## Actualmente me interesa
+`React` · `Astro` · `JavaScript`
 
-- Construir servicios backend escalables y mantenibles.
-- Integrar inteligencia artificial en aplicaciones reales.
-- Explorar bases de datos vectoriales, agentes y automatización.
+</td>
+</tr>
+</table>
+
+> **Nota:** Estos son proyectos de mi trayectoria. Agregaré los enlaces de código o demostración cuando sus repositorios estén disponibles públicamente.
+
+### 🎯 En qué estoy enfocado
+
+```text
+Backend       → APIs claras, mantenibles y seguras
+Inteligencia  → LLMs, embeddings y búsqueda semántica
+Automatización→ Procesos más ágiles y menos tareas repetitivas
+Aprendizaje   → Arquitectura de software, agentes y herramientas de IA
+```
 
 ---
 
 <div align="center">
 
-### ¿Colaboramos en un proyecto?
+### 🤝 ¿Construimos algo interesante?
 
-[Conectemos en LinkedIn](https://www.linkedin.com/in/dante-yupanqui/) · [Explora mi GitHub](https://github.com/Dante1128)
+Me interesan los proyectos que combinan **desarrollo web, backend, automatización e IA aplicada**.
+
+[**Conectemos en LinkedIn**](https://www.linkedin.com/in/dante-yupanqui/) · [**Explora mis repositorios**](https://github.com/Dante1128?tab=repositories)
+
+<sub>Diseñado con intención: menos adornos, más proyectos reales.</sub>
 
 </div>

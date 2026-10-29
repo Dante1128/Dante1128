@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-label="Dante Yupanqui - Full Stack Developer - Backend and AI">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#081426"/><stop offset=".54" stop-color="#102C52"/><stop offset="1" stop-color="#0B3266"/></linearGradient><linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#38BDF8"/><stop offset="1" stop-color="#E9B52C"/></linearGradient></defs>
+<rect width="1200" height="350" rx="24" fill="url(#bg)"/>
+<g opacity=".18" fill="none" stroke="#8CD8FF" stroke-width="1"><path d="M740 0 1030 350 M860 0 1150 350 M970 0 1200 275 M1110 0 1200 115"/><path d="M795 0 660 350 M905 0 770 350 M1015 0 880 350 M1125 0 990 350"/></g>
+<circle cx="1070" cy="170" r="135" fill="none" stroke="#45B6EE" stroke-width="1.5" opacity=".25"/><circle cx="1070" cy="170" r="98" fill="none" stroke="#45B6EE" stroke-width="1.5" opacity=".32"/><circle cx="1070" cy="170" r="61" fill="none" stroke="#E9B52C" stroke-width="1.5" opacity=".45"/>
+<g stroke="#63CBFD" opacity=".65" fill="none" stroke-width="2.5" stroke-linecap="round"><path d="M900 104h110l32 34h58"/><path d="M890 236h130l28-30h59"/><path d="M1001 73v42"/><path d="M1108 258v-49"/></g>
+<g fill="#E9B52C"><circle cx="900" cy="104" r="6"/><circle cx="890" cy="236" r="6"/><circle cx="1001" cy="73" r="6"/><circle cx="1108" cy="258" r="6"/></g>
+<rect x="60" y="51" width="176" height="30" rx="15" fill="#1A466A" stroke="#2A779E" stroke-width="1"/><text x="148" y="71" text-anchor="middle" fill="#97E5FF" font-family="Arial, sans-serif" font-size="14" font-weight="bold" letter-spacing="1.5">HELLO WORLD_</text>
+<text x="60" y="158" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="61" font-weight="bold">Dante Yupanqui</text>
+<rect x="60" y="182" width="76" height="5" rx="2" fill="#E9B52C"/>
+<text x="60" y="225" fill="#ACDAF5" font-family="Arial, sans-serif" font-size="26" font-weight="bold">Full Stack Developer</text>
+<text x="60" y="260" fill="#DBE9F5" font-family="Arial, sans-serif" font-size="19">Backend engineering  ·  AI integration  ·  Data</text>
+<text x="60" y="310" fill="#8AB0CF" font-family="Arial, sans-serif" font-size="15" letter-spacing="1">BUILDING SOFTWARE THAT SOLVES REAL PROBLEMS</text>
+<path d="M0 330H1200" stroke="url(#line)" stroke-width="8"/>
+</svg>
