@@ -14,7 +14,7 @@ Transformo ideas en aplicaciones que conectan **software, datos e inteligencia a
 
 <br>
 
-[Sobre mí](#-el-desarrollador-detrás-del-código) &nbsp; · &nbsp; [Tecnologías](#-mi-universo-tecnológico) &nbsp; · &nbsp; [Proyectos](#-ideas-convertidas-en-proyectos) &nbsp; · &nbsp; [Conectemos](#-de-la-idea-al-siguiente-proyecto)
+[Sobre mí](#-el-desarrollador-detrás-del-código) &nbsp; · &nbsp; [Tecnologías](#-mi-universo-tecnológico) &nbsp; · &nbsp; [Proyectos](#-ideas-convertidas-en-proyectos) &nbsp; · &nbsp; [Actividad](#-mi-actividad-en-github) &nbsp; · &nbsp; [Conectemos](#-de-la-idea-al-siguiente-proyecto)
 
 </div>
 
@@ -150,6 +150,28 @@ Desarrollo de interfaces y experiencias digitales **orientadas a las personas** 
 <sub>Proyectos de mi trayectoria. Explora el código público disponible en mis repositorios.</sub>
 
 [**Ver repositorios ↗**](https://github.com/Dante1128?tab=repositories)
+
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## 📈 Mi actividad en GitHub
+
+<div align="center">
+
+Cada proyecto, cada aporte y cada línea de código forman parte del camino.
+
+<a href="https://github.com/Dante1128?tab=overview"><img src="./assets/github-stats.svg" width="100%" alt="Estadísticas de GitHub: contribuciones visibles, repositorios públicos propios, estrellas y seguidores" /></a>
+
+<br>
+
+<a href="https://github.com/Dante1128?tab=overview"><img src="./assets/github-calendar.svg" width="100%" alt="Mi calendario de contribuciones reales de los últimos 12 meses, en violeta y cian" /></a>
+
+<br>
+
+<img src="./assets/github-languages.svg" width="100%" alt="Distribución de mis repositorios públicos propios por lenguaje principal, sin forks" />
+
+<sub>Datos reales de GitHub. La fecha de actualización aparece en la tarjeta.</sub>
 
 </div>
 

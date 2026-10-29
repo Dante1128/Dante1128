@@ -1,0 +1,46 @@
+name: Actualizar estadísticas del perfil
+
+on:
+  schedule:
+    - cron: '23 10 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/scripts/update_profile.py'
+      - '.github/tests/**'
+      - '.github/workflows/profile-stats.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-stats
+  cancel-in-progress: false
+
+jobs:
+  update:
+    if: github.repository == 'Dante1128/Dante1128'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Comprobar el generador
+        run: python -B -m unittest discover -s .github/tests -v
+      - name: Generar tarjetas con datos reales
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python .github/scripts/update_profile.py
+      - name: Guardar únicamente los recursos generados
+        run: |
+          git add assets/github-data.json assets/github-stats.svg assets/github-calendar.svg assets/github-languages.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'chore: actualizar estadísticas del perfil'
+          git push

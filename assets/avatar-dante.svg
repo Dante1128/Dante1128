@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title">
+<title id="title">Avatar de Dante Yupanqui: monograma DY en violeta y cian</title>
+<defs>
+<radialGradient id="bg" cx="25%" cy="20%" r="110%"><stop stop-color="#27334A"/><stop offset=".5" stop-color="#191B38"/><stop offset="1" stop-color="#0A2938"/></radialGradient>
+<linearGradient id="letters"><stop stop-color="#C4B5FD"/><stop offset="1" stop-color="#67E8F9"/></linearGradient>
+</defs>
+<rect width="1024" height="1024" fill="url(#bg)"/>
+<circle cx="512" cy="512" r="431" fill="none" stroke="#425277" stroke-width="4" stroke-dasharray="1 112" stroke-linecap="round"/>
+<circle cx="512" cy="512" r="376" fill="none" stroke="#3B4165" stroke-width="2"/>
+<path d="M132 459 A384 384 0 0 1 643 151" fill="none" stroke="#A78BFA" stroke-width="6"/>
+<path d="M892 565 A384 384 0 0 1 381 873" fill="none" stroke="#22D3EE" stroke-width="6"/>
+<circle cx="512" cy="512" r="320" fill="#12182B" stroke="#535079" stroke-width="2"/>
+<circle cx="512" cy="512" r="303" fill="none" stroke="#28324B"/>
+<text x="512" y="612" text-anchor="middle" fill="url(#letters)" font-family="Segoe UI, Arial, sans-serif" font-size="310" font-weight="700">DY</text>
+<g fill="#131C30" stroke-width="2"><circle cx="291" cy="198" r="11" stroke="#A78BFA"/><circle cx="734" cy="826" r="11" stroke="#22D3EE"/></g>
+<circle cx="291" cy="198" r="4" fill="#A78BFA"/><circle cx="734" cy="826" r="4" fill="#22D3EE"/>
+</svg>
